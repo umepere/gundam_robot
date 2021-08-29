@@ -5,7 +5,8 @@ ROS packages for GUNDAM robots
 ![GUNDAM Gazebo Simulation](img/gundam_rx78_world.png)
 
 How to visualize URDF model
-===========================[GGC_OPENSIMULATOR_RX78.zip](https://github.com/umepere/gundam_robot/files/7072038/GGC_OPENSIMULATOR_RX78.zip)
+===========================[GGC_OPENSIMULATOR_RX78.zip](http[GGC_OPENSIMULATOR_RX78.zip](https://github.com/umepere/gundam_robot/files/7072052/GGC_OPENSIMULATOR_RX78.zip)
+s://github.com/umepere/gundam_robot/files/7072038/GGC_OPENSIMULATOR_RX78.zip)
 
 
 To visualize URDF file in your rviz, you can use `display.launch` file.
